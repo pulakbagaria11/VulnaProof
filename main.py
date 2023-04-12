@@ -1,6 +1,4 @@
 import socket
-
-import customtkinter
 import pandas as pd
 import customtkinter as ctk
 from PIL import ImageTk, Image
